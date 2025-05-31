@@ -61,7 +61,7 @@ We welcome:
 - Ontological comparisons with existing models
 - Simulation or mathematical test cases
 
-💬 Use the [Issues](https://github.com/YOUR_USERNAME/voxel-theory/issues) tab or enable Discussions to participate.
+💬 Use the [Issues](https://github.com/Clifton-Odenwalt/Voxel-Theory/issues) tab or enable Discussions to participate.
 
 ---
 
